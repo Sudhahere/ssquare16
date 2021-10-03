@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Sudhanshu Shekhar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 ssquare16/ssquare16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -16,20 +10,20 @@ You can click the Preview link to take a look at your changes.
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫 I'm a final year computer science student studing in VIT,Vellore
-- 👀 I’m interested in problem solving and software development
+- 🏫 I'm a final year computer science student studing in TIET, Patiala
+- 👀 I’m interested in problem solving and Data analytics
 - 🌱 I’m currently learning SQL and data analytics
 - 💞️ I’m looking to collaborate on projects related to data analytics
 - 💬: Ask me about Data Analysis, Visualization and data stuctures and algorithms
-- 📫 How to reach me --> https://www.linkedin.com/in/vaibhav-singh-721a87149/
-- 📝 I regulary write articles on my blogging website https://bhavhere.medium.com/
+- 📫 How to reach me --> https://www.linkedin.com/in/sudhanshushekhar16/
+- 📝 I regulary write articles on my blogging website sudxanshushekhxr.medium.com
   
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/vaibhav-singh-721a87149/" target="blank"><img align="center" src="https://img.shields.io/badge/Linked%20In%20Vaibhav%20Singh-blue?style=for-the-badge&logo=linkedin" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:singhvaibhav32000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/singhvaibav32000@gmail.com-white?style=for-the-badge&logo=gmail" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/bhavhere" target="blank"><img align="center" src="https://img.shields.io/badge/bhavhere-black?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-singh-721a87149/" target="blank"><img align="center" src="https://img.shields.io/badge/Linked%20In%20Sudhanshu%20Shekhar-blue?style=for-the-badge&logo=linkedin" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:singhvaibhav32000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/singhvaibav32000@gmail.com-white?style=for-the-badge&logo=gmail" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/bhavhere" target="blank"><img align="center" src="https://img.shields.io/badge/bhavhere-black?style=for-the-badge&logo=github" /></a>
 </p>
  
 <Br>
